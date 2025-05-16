@@ -1,0 +1,12 @@
+.customimage {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.customized-background {
+    background: #090979;
+background: linear-gradient(90deg, rgba(9, 9, 121, 1) 6%, rgba(0, 203, 249, 1) 84%, rgba(0, 212, 255, 1) 100%);
+color: aliceblue;
+}
+
